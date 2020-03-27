@@ -25,5 +25,6 @@ https://drive.google.com/open?id=1bUwYb-RAnF1YTi1Bnmw2La2BujQLVFlE
 
 Copy the 'Dataset' folder to the same directory of 'DiffusionMap', i.e., making sure that 'Dataset' and 'DiffusionMap' are in the same directory. 
 
+Additional Note: You can revise the training loss to use per-row cosine similarity to get diffusion distance capturing small objects. 
 ----
 Please follow "README.txt" in folder of "DiffusionMap" for training neural diffusion network.
